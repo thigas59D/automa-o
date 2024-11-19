@@ -1,1 +1,2 @@
-# automa-o
+# automação para colocar uma música no youtube
+o youtube deve estar aberto em segundo plano para dar certo...
